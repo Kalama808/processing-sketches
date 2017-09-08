@@ -1,6 +1,6 @@
 /*
 Kalama Flagg
-August 31, 2017
+September 7, 2017
 Exercise04_03
 Constructs a function that performs an action but does not return a variable
 */
