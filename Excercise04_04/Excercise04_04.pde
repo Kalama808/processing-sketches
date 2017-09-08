@@ -1,6 +1,6 @@
 /* Flagg, Kalama
-   Date
-   Name of Sketch
+   September 7, 2017
+   Excersize04_04
    Combining multiple variables and text using the print() and println() functions to output composit text to console
 */
 
