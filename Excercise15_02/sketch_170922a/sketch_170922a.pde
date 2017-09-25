@@ -1,4 +1,8 @@
-int m;
+/* Flagg, Kalama
+   September 22, 2017
+   Excercise15_02
+   Modifies first sketch to change somethng on the screen each time a key is pressed
+*/int m;
 int x;
 
 void setup(){
