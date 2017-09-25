@@ -1,4 +1,8 @@
-int m;
+/* Flagg, Kalama
+   September 22, 2017
+   Excercise15_03
+   Further modifes the sketch to use text() to display value of a key
+*/int m;
 int x;
 
 void setup(){
