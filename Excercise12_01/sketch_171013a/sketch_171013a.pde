@@ -1,7 +1,7 @@
 /* Flagg, Kalama
    October 13, 2017
    Excercise12_01
-   Fibinacci
+   Fibonacci Sequence
 */
 int A = 0;
 int B = 1;
