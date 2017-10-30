@@ -1,7 +1,7 @@
 /* Flagg, Kalama
-   Date
-   Excercise18_01
-   Manipulation of outline, fill color, text position and size
+   October 30, 2017
+   Excercise18_01&2&3
+   Manipulation of outline, fill color, text position and size; Pfont
 */
 
 String letters = "";
