@@ -1,6 +1,6 @@
 /* Flagg, Kalama
    October 31, 2017
-   Excercise19_01
+   Excercise19_01&2
    Pfont.list()
 */
 String t = "Trunk Trunk Trunk";
